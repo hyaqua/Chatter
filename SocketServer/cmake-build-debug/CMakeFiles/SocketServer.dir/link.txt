@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/SocketServer.dir/main.c.o -o SocketServer  -Wl,-rpath,/mnt/c/Users/rudni/CLionProjects/SocketUtil/cmake-build-debug /mnt/c/Users/rudni/CLionProjects/SocketUtil/cmake-build-debug/libSocketUtil.so 

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g -shared -Wl,-soname,libSocketUtil.so -o libSocketUtil.so CMakeFiles/SocketUtil.dir/library.c.o 
